@@ -97,6 +97,10 @@
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
+      "Id": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\admin\\images\\a70f81f3-9ae9-42a6-b655-39abf98c2f77.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\a70f81f3-9ae9-42a6-b655-39abf98c2f77.jpg"
+    },
+    {
       "Id": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
     },
@@ -451,6 +455,10 @@
     {
       "Id": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\images\\topics\\4.jpg",
       "PackagePath": "staticwebassets\\images\\topics\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\images\\topics\\4dd81752-23c9-4509-851e-ca83bc5e9895.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\4dd81752-23c9-4509-851e-ca83bc5e9895.jpg"
     },
     {
       "Id": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\images\\verified.png",

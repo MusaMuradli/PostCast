@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Oqv1N3K4TF1dVC/U6j0+BIFJg/+vUReGPwZLS8Crv1s=",
+  "Hash": "pBe7RAw2bjnDLJkTLyIKfDTJGaQK3MPqgF6drd3qQB4=",
   "Source": "Podcast.MVC",
   "BasePath": "_content/Podcast.MVC",
   "Mode": "Default",
@@ -471,6 +471,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\admin\\images\\a70f81f3-9ae9-42a6-b655-39abf98c2f77.jpg",
+      "SourceId": "Podcast.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\",
+      "BasePath": "_content/Podcast.MVC",
+      "RelativePath": "admin/images/a70f81f3-9ae9-42a6-b655-39abf98c2f77.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\images\\a70f81f3-9ae9-42a6-b655-39abf98c2f77.jpg"
     },
     {
       "Identity": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
@@ -2162,6 +2181,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\topics\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\images\\topics\\4dd81752-23c9-4509-851e-ca83bc5e9895.jpg",
+      "SourceId": "Podcast.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\",
+      "BasePath": "_content/Podcast.MVC",
+      "RelativePath": "images/topics/4dd81752-23c9-4509-851e-ca83bc5e9895.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\topics\\4dd81752-23c9-4509-851e-ca83bc5e9895.jpg"
     },
     {
       "Identity": "C:\\Users\\Owner\\Desktop\\Podcast\\Podcast.MVC\\wwwroot\\images\\verified.png",

@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.deps.json
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.runtimeconfig.json
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.dll
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.pdb
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.sourcelink.json
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.dll
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\refint\Podcast.DAL.dll
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.pdb
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Podcast\Podcast.DAL\obj\Debug\net8.0\ref\Podcast.DAL.dll
